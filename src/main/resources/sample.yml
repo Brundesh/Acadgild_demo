@@ -5,4 +5,4 @@ mailbox: INBOX
 imapServerUrl: imap.mail.yahoo.com
 protocol: imaps
 minutesBetweenChecks: 1
-usersOfInterest: [barney, ",", wilma]
+usersOfInterest: [barney, ",", wilma,"l"]
